@@ -1,0 +1,54 @@
+{
+  "nombreApp": "Componentes",
+  "rutas": [
+    {
+      "ruta": "alert",
+      "icon": "add_alert",
+      "texto": "woler",
+      "hora": "1:13 pm",
+      "img": "assets/legosi.jpg"
+    },
+    {
+      "ruta": "avatar",
+      "icon": "accessibility",
+      "texto": "Luci",
+      "hora": "1:03 pm",
+      "img": "assets/11.gif"
+    },
+    {
+      "ruta": "gio",
+      "icon": "folder_open",
+      "texto": "gio",
+      "hora": "3:03 pm",
+      "img": "assets/5.jpg"
+    },
+    {
+      "ruta": "susu",
+      "icon": "donut_large",
+      "texto": "susu",
+      "hora": "4:00 am",
+      "img": "assets/4.png"
+    },
+    {
+      "ruta": "susu bronny",
+      "icon": "input",
+      "texto": "susu bronny",
+      "hora": "1:03 pm",
+      "img": "assets/3.png"
+    },
+    {
+      "ruta": "yoni",
+      "icon": "tune",
+      "texto": "yoni",
+      "hora": "1:03 pm",
+      "img": "assets/2.jpg"
+    },
+    {
+      "ruta": "list",
+      "icon": "list",
+      "texto": "Garenamix",
+      "hora": "1:03 pm",
+      "img": "assets/1.jpg"
+    }
+  ]
+}
